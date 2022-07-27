@@ -4,7 +4,7 @@ Explicit Animation
 
 显式动画
 
-( Animated Widget )
+( animation controller )
 
 <hr>
 
@@ -12,4 +12,6 @@ Explicit Animation
 
 Implicit Animation
 
-隐式动画
+build in 隐式动画
+
+( Animated Widget )
